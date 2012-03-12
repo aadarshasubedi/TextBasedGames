@@ -1,0 +1,9 @@
+Debug
+Release
+ipch
+*.suo
+*.vcxproj
+*.user
+*.filters
+*.pdb
+*.cache

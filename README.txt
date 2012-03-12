@@ -1,0 +1,1 @@
+This is a collection of chapter projects and assignments from the book C++ Projects: Programming with Text-Based Games by Mike Dawson.
